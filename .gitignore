@@ -1,0 +1,8 @@
+*.env
+*Include
+*Lib
+*etc
+*share
+*Scripts
+*pyvenv.cfg
+tc.bat
