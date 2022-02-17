@@ -27,7 +27,7 @@ app.layout = html.Div(
     style={"backgroundColor": colors["background"]},
     children=[
         html.H1(
-            children="Teet Meter",
+            children="Tweet Meter",
             style={"textAlign": "center", "color": colors["text"]},    
         ),
         html.Div(
