@@ -7,3 +7,6 @@
 *pyvenv.cfg
 tc.bat
 *.code-workspace
+__pycache__
+
+
